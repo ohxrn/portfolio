@@ -1,0 +1,16 @@
+:root {
+
+
+
+  background-image: url("./src/assets/st.jpeg");
+
+
+
+  background-color: black;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
