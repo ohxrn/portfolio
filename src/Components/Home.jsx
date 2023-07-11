@@ -65,7 +65,7 @@ export const Home = () => {
         <h1
           style={{ color: "turquoise", fontSize: "4rem", marginLeft: "45px" }}
         >
-          Experience
+          Experiences
         </h1>
         <div
           style={{
